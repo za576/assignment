@@ -1,0 +1,29 @@
+<html>
+<head>
+<title> Application </title>
+</head>
+
+<body>
+
+<p title = 'Application'><br><b>To</b><br>The Manager, <br>Company Name, <br>City Name.
+<br><br>
+sub:<b>Two days</b> leave application for sister marriage
+<br><br>
+Dear Sir/Madam
+<br><br>
+My name is <b>ZAYYAN AHMED,  [employee id], </b> working as a <b> [designation],</b>
+in <b> [department] . </b> I am writing this letter to apply for <b> two days </b> of leave to attend 
+my sister's wedding ceremony which is scheduled on <b> [date]. </b> 
+<br><br>
+So I request you to please grant me <b> two days </b> of leave from <b> [date] </b> to <b> date .
+</b> 
+<br><br>
+I shall be thankful to you.
+<br><br>
+Thanking you.
+<br><br>
+ Sincerely, <br><b>ZAYYAN AHMED</b>
+</p>
+
+</body>
+</html>
